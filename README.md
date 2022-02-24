@@ -2,4 +2,4 @@
 
 Updated this read me on the github website.
 
-Gonna make some more changes
+Updates made on maste before rebase
