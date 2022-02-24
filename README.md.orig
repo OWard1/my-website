@@ -1,0 +1,15 @@
+# My-Website
+
+Updated this read me on the github website.
+
+Updates made on maste before rebase
+
+<<<<<<< HEAD
+This is local changes
+
+That's gonna clash with online stuff
+=======
+This is gonna cause issues from network
+
+And make problems on the local side
+>>>>>>> c0676ba6c94acc12f9d933325f217ce03af7ecb9
