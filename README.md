@@ -8,3 +8,5 @@ This is local changes
 That's gonna clash with online stuff
 
 Changing new shiz to make branchs different
+
+## Getting Started
