@@ -7,6 +7,6 @@ This is local changes
 
 That's gonna clash with online stuff
 
-Changed shiz
+Changing new shiz to make branchs different
 
 ## Getting Started
